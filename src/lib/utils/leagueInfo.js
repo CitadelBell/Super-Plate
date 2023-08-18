@@ -7,7 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the new and improved league tracker for convenience, courtesy of yours truely</p>
+  <p>Welcome to the new and improved league tracker for convenience, courtesy of yours truly.</p><be>
+  <p>Feel free to make donations for the effort I put in to make this.</p><be>
+  <p>Tiarnan's still shit at fantasy.</p>
 `;
 
 /*   STEP 3   */
